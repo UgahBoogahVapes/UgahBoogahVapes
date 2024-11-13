@@ -1,0 +1,50 @@
+.delete-btn {
+    all: unset; 
+    cursor: pointer; 
+    color: #520000; 
+    border-radius: 10px;
+    background: #ff3d3d;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.delete-btn:hover {
+    background: #ff1616;
+}
+
+.archive-btn {
+    all: unset; 
+    cursor: pointer; 
+    color: #520000; 
+    border-radius: 10px;
+    background: #ff7a3d;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.archive-btn:hover {
+    background: #ff6016;
+}
+
+.edit-btn {
+    all: unset; 
+    cursor: pointer; 
+    color: #001a52; 
+    border-radius: 10px;
+    background: #3c81ff;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.edit-btn:hover {
+    background: #105bff;
+}
